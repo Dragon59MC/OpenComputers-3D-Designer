@@ -1,5 +1,5 @@
 {
-  label = "Pot",
+  label = "Flower Pot",
   tooltip = "§7A slightly larger but useless flower pot.",
   shapes={
     {0,0,0,16,2,16,texture="brick"},
