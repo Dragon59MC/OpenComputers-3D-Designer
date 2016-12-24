@@ -1,5 +1,5 @@
 {
-  label = "Big Button",
+  label = "Smile",
   emitRedstone = true, -- if this is false it behaves like a door
   buttonMode = true, -- if this is false it behaves like a lever
   shapes={
